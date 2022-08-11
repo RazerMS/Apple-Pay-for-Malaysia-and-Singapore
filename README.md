@@ -41,5 +41,8 @@ Apple Pay on the App
     
    
 
+Apple Pay via Razer Merchant Services Terminal
+===============================================
 
+Coming soon!! 
 
