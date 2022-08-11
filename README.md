@@ -1,3 +1,8 @@
+# RazerMS x Apple Pay Integration Documentation
+
+![github-v3](https://user-images.githubusercontent.com/38641542/184131727-07b9c314-b6c3-4ab6-971a-c0ac095b7d8f.jpg)
+
+
 Apple Pay on the Web
 ====================
   
