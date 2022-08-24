@@ -6,7 +6,7 @@
 Apple Pay on the Web
 ====================
   
-### Onboard and use Apple Pay for [Seamless Integration](https://github.com/RazerMS/Integration-RazerMS_JavaScript_Seamless_Integration/blob/master/README.md), [Hosted Integration](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5Bofficial%20API%5D%20Razer%20API%20Spec%20for%20Merchant%20(v13.37).pdf) and [Direct Server](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.5.pdf)
+### Onboard and use Apple Pay for [Seamless Integration](https://github.com/RazerMS/Integration-RazerMS_JavaScript_Seamless_Integration/blob/master/README.md), [Hosted Integration](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5Bofficial%20API%5D%20Razer%20API%20Spec%20for%20Merchant%20(v13.37).pdf) and [Direct Server](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.8.pdf)
 
    1) Create a directory path at your server call .well-known and place the apple-developer-merchantid-domain-association at the following directory.
        - Download the file here [apple-developer-merchantid-domain-association](https://d2x73ruoixi2ei.cloudfront.net/ApplePay/apple-developer-merchantid-domain-association)
@@ -24,7 +24,7 @@ Apple Pay on the Web
    - There's no integration needed. Only onboarding.
 
 ### Direct Server Integration 
-   - Refer to Enabling Apple Pay section at [Direct Server]https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.8.pdf) documentation 
+   - Refer to Enabling Apple Pay section at [Direct Server](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.8.pdf) documentation 
 
 ### Supported platforms
 |  | Worldwide (except China) | China | 
