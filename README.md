@@ -38,5 +38,5 @@ Apple Pay on the App
 ### XDK integration
 
    - [Integrate Apple Pay with Mobile XDK](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/RMS%20Mobile%20XDK%20X%20ApplePay.pdf) documentation 
-    
+   - [For Native framework only ](https://github.com/RazerMS/RazerMSApplePayPlugin)  
 
