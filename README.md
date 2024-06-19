@@ -23,9 +23,6 @@ Apple Pay on the Web
    4) Apple will verify the following path in order for us to successfully onboard you as a merchant. 
    5) Upon success onboarding, you can start making payment using Apple Pay with your integration.
 
-### Direct Server Integration 
-   - Refer to Enabling Apple Pay section at [Direct Server](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.8.pdf) documentation 
-
 ### Supported platforms
 |  | Worldwide (except China) | China | 
 | ------------- |:-------------:|:-------------:|
